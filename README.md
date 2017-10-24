@@ -10,9 +10,10 @@
   
   <!--Site Body-->
   <!--Intro-->
+  
   <body>
     <div id="introduction">
-    <h1>From the Ground Up!</h1>
+      <h1>From the Ground Up!</h1>
     </div> 
     
     <!--Services-->
@@ -21,5 +22,10 @@
       <h2>Services</h2>
     </div>
     
+    <!--Media-->
+    
+    <div id="Media">
+    <h2>Clients</h2>
+    </div>
   </body>
 </html>
