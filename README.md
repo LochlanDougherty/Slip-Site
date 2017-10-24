@@ -15,7 +15,7 @@
     <div id="introduction">
       <h1>From the Ground Up!</h1>
     </div> 
-    
+   
     <!--Services-->
     
     <div id="Services">
@@ -27,5 +27,6 @@
     <div id="Media">
     <h2>Clients</h2>
     </div>
+    
   </body>
 </html>
