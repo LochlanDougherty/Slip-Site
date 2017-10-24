@@ -25,7 +25,7 @@
     <!--Media-->
     
     <div id="Media">
-    <h2>Clients</h2>
+    <h2>Media</h2>
     </div>
     
   </body>
